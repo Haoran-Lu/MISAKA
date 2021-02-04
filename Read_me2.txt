@@ -2,4 +2,4 @@ The codes included are incomplete and non-executable. It includes the fundamenta
 
 Upon request, we can send test data and full codes to help you get started. Please contact Jing Yan (jing.yan@yale.edu) and Haoran Lu (samzero@sjtu.edu.cn or hl2396@cornell.edu) for further details. 
 
-Written by Haoran Lu, Shanghai Jiao Tong University, 01/20/2020. 
+Written by Haoran Lu, 01/20/2020. 
