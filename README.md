@@ -1,2 +1,2 @@
 # Segmentation core code
-Supporting Information for     paper titled "Mechanical feedback during confined biofilm growth with single-cell resolution imaging by single-cell live imaging"
+Supporting Information for paper titled "Single=cell imaging reveals biomechanical ordering in confined biofilms".
